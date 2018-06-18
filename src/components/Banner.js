@@ -5,7 +5,7 @@ export default class Banner extends Component {
     return (
       <div>
         <header className="App-header">
-          <p className="title-header">Worl Cup 2018. Russia</p>
+          <p className="title-header">World Cup 2018. Russia</p>
         </header>
       </div>
     )

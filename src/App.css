@@ -1,7 +1,8 @@
 .App-header {
-  height: 375px;
+  height: 343px;
   width: 100%;
   background-image: url("/img/banner.jpg");
+  background-position: 0px -20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,4 +12,7 @@
   color:#EFD807;
   font-size: 30px;
   font-weight: bolder;
+}
+.carousel-inner{
+  height: 400px;
 }
