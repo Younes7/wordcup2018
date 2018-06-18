@@ -1,7 +1,14 @@
 .App-header {
-  height: 100px;
-  width: auto;
+  height: 375px;
+  width: 100%;
   background-image: url("/img/banner.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-header{
+  color:#EFD807;
+  font-size: 30px;
+  font-weight: bolder;
 }
