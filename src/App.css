@@ -1,7 +1,7 @@
 .App-header {
   height: 100px;
   width: auto;
-  background-image: url("./img/banniere.jpg");
+  background-image: url("/img/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
