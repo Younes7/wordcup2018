@@ -16,3 +16,21 @@
 .carousel-inner{
   height: 400px;
 }
+
+.match{
+  border-bottom: 1px solid blue;
+  text-align: center;
+}
+
+.content-match > div{
+    margin: 20px 50px 0 50px;
+}
+.content-match{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.match-card{
+  display: flex;
+  /* flex-wrap: wrap; */
+}
